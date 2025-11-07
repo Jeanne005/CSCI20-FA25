@@ -1,8 +1,9 @@
-// creating a function
-
-int my_sum(int x,int y) {
-    return x + y;
-}
-int main() {
-    std::printf("%d\n", my_sum)
-}
+// a std:: array is a string of words, letter, numbers, things.
+// a vector is a changing array that can automantically resize itself when elements are added or removed.
+// line 1 through 4 is C++ librarys that we need to use in order for the types to process.
+// C++ types consist of bool, char,floats, and ints.
+// These types give us the ability to manipulate data, providing the compiler with crucial information to preform operations and 
+// manage memory effectively.
+// std is a name space for librarys in C++ except for operators new and operator delete. This provides definition for the enitites,
+// (fundamental concept that encompasses various elements within a program) and macros (a fragment of code that is given a name and
+// replaced by its defined value of code snippet during the preprossing phase before compilation) descrided in the synopsis of C++.
